@@ -38,11 +38,13 @@ This project is a practice framework built using **Java**, **Rest Assured**, **T
 3. Run the tests:
    `mvn test` or run `testng.xml` from your IDE
 
-### 📊 Test Reports
+📊 Test Reporting
 
-After running, check the `test-output/index.html` for a full HTML report of the results.
+All test results are stored in the test-output folder
+Open test-output/index.html in your browser to view the report
 
 ---
 
-**Author:** Aakash Kumar
-GitHub: [@aakashshau](https://github.com/aakashshau)
+🙋‍♂️ Author
+Created by Aakash Kumar
+📧 GitHub: @aakashshau
