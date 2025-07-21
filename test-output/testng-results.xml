@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-10T18:51:25 IST" name="Default suite" finished-at="2025-07-10T18:51:27 IST" duration-ms="2095">
+  <suite started-at="2025-07-18T15:05:17 IST" name="Suite" finished-at="2025-07-18T15:05:19 IST" duration-ms="2236">
     <groups>
     </groups>
-    <test started-at="2025-07-10T18:51:25 IST" name="Default test" finished-at="2025-07-10T18:51:27 IST" duration-ms="2095">
+    <test started-at="2025-07-18T15:05:17 IST" name="Test" finished-at="2025-07-18T15:05:19 IST" duration-ms="2236">
       <class name="com.api.testing.restassured_api_tests.DynamicJson">
-        <test-method signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:com.api.testing.restassured_api_tests.DynamicJson@8f4ea7c]" started-at="2025-07-10T18:51:25 IST" name="addBook" data-provider="BooksData" finished-at="2025-07-10T18:51:26 IST" duration-ms="1523" status="PASS">
+        <test-method signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:com.api.testing.restassured_api_tests.DynamicJson@158d2680]" started-at="2025-07-18T15:05:17 IST" name="addBook" data-provider="BooksData" finished-at="2025-07-18T15:05:18 IST" duration-ms="1634" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,7 +23,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addBook -->
-        <test-method signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:com.api.testing.restassured_api_tests.DynamicJson@8f4ea7c]" started-at="2025-07-10T18:51:26 IST" name="addBook" data-provider="BooksData" finished-at="2025-07-10T18:51:26 IST" duration-ms="272" status="PASS">
+        <test-method signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:com.api.testing.restassured_api_tests.DynamicJson@158d2680]" started-at="2025-07-18T15:05:18 IST" name="addBook" data-provider="BooksData" finished-at="2025-07-18T15:05:19 IST" duration-ms="289" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -39,7 +39,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addBook -->
-        <test-method signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:com.api.testing.restassured_api_tests.DynamicJson@8f4ea7c]" started-at="2025-07-10T18:51:26 IST" name="addBook" data-provider="BooksData" finished-at="2025-07-10T18:51:27 IST" duration-ms="261" status="PASS">
+        <test-method signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:com.api.testing.restassured_api_tests.DynamicJson@158d2680]" started-at="2025-07-18T15:05:19 IST" name="addBook" data-provider="BooksData" finished-at="2025-07-18T15:05:19 IST" duration-ms="269" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -56,6 +56,6 @@
           </reporter-output>
         </test-method> <!-- addBook -->
       </class> <!-- com.api.testing.restassured_api_tests.DynamicJson -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
